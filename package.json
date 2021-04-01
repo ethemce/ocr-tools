@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/cheminfo-js/ocr-tools#readme",
   "optionalDependencies": {
-    "font-manager": "^0.2.2"
+    "font-manager": "^0.3.0"
   },
   "devDependencies": {
     "eslint": "^4.16.0",
